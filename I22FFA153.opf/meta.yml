@@ -1,0 +1,36 @@
+id: I22FFA153
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:39:35.186561'
+last_modified: '2022-06-19T01:39:35.186575'
+parser: null
+source_metadata:
+  title: A mes zhabss History of Mahākala teachings in India and Tibet
+  author: jam mgon a mes zhabs/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-05-20); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:bsam grub/ (Dharamsala) (sdr), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:bsam grub/
+  text_witnesses: https://sakyaresearch.org/sources/426
+  bases:
+    3af1:
+      title: A mes zhabss History of Mahākala teachings in India and Tibet
+      order: 1
+      base_file: 3af1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
